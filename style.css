@@ -1,0 +1,50 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+.div_speed{
+    float:left;
+}
+.div_speed_img{
+    width:200px;
+    border-radius:200px;
+}
+#speed{
+    font-size:25px;
+    margin:15px;
+}
+.div_rate{
+    float:right;
+}
+.div_rate_img{
+    width:200px;
+    border-radius: 200px;
+}
+#volume{
+    font-size:25px;
+    margin:15px;
+}
+#speed:hover{
+    z-index: 9;
+    background-color: orchid;
+}
+#volume:hover{
+    z-index: 9;
+    background-color: orchid;
+}
+.heading:hover{
+    background-color: red;
+}
+.play_button{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+}
